@@ -43,6 +43,6 @@ caracter_ataca(arcas1)
 for caracter in [vrajitor1, arcas1]:
     caracter.ataca()
 
-# Introspecite - link-are la run time
+# Introspectie - link-are la run time
 
 print(dir(vrajitor1))
